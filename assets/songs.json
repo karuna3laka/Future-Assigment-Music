@@ -3,180 +3,140 @@
     "id": "1",
     "title": "Blinding Lights",
     "artist": "The Weeknd",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "english"
   },
   {
     "id": "2",
-    "title": "Save Your Tears",
-    "artist": "The Weeknd",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Sanda Eliya",
+    "artist": "Nilan Malinda",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "sinhala"
   },
   {
     "id": "3",
     "title": "Stay",
     "artist": "The Kid LAROI, Justin Bieber",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "english"
   },
   {
     "id": "4",
-    "title": "good 4 u",
-    "artist": "Olivia Rodrigo",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Sulanga",
+    "artist": "Kasun Kalhara",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "sinhala"
   },
   {
     "id": "5",
     "title": "Levitating",
     "artist": "Dua Lipa",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "english"
   },
   {
     "id": "6",
-    "title": "Montero",
-    "artist": "Lil Nas X",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Rae Ira Pana",
+    "artist": "Sanuka Wickramasinghe",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "sinhala"
   },
   {
     "id": "7",
-    "title": "Peaches",
-    "artist": "Justin Bieber",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "english"
   },
   {
     "id": "8",
-    "title": "Kiss Me More",
-    "artist": "Doja Cat ft. SZA",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Ahasa Usata",
+    "artist": "W.D. Amaradeva",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "sinhala"
   },
   {
     "id": "9",
-    "title": "Butter",
-    "artist": "BTS",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "english"
   },
   {
     "id": "10",
-    "title": "Stay",
-    "artist": "Post Malone",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Pem Kekula",
+    "artist": "Bathiya & Santhush",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "sinhala"
   },
   {
     "id": "11",
-    "title": "Deja Vu",
-    "artist": "Olivia Rodrigo",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "english"
   },
   {
     "id": "12",
-    "title": "Industry Baby",
-    "artist": "Lil Nas X",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Math Mal Sena",
+    "artist": "Rookantha Gunathilake",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "sinhala"
   },
   {
     "id": "13",
-    "title": "Bad Habits",
-    "artist": "Ed Sheeran",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Peaches",
+    "artist": "Justin Bieber",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "english"
   },
   {
     "id": "14",
-    "title": "Stay",
-    "artist": "Alesso, Zara Larsson",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Sitha Handai",
+    "artist": "Amarasiri Peiris",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "sinhala"
   },
   {
     "id": "15",
-    "title": "Love Again",
-    "artist": "Dua Lipa",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Senorita",
+    "artist": "Shawn Mendes, Camila Cabello",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "english"
   },
   {
     "id": "16",
-    "title": "Happier Than Ever",
-    "artist": "Billie Eilish",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Sihina Ahase",
+    "artist": "Uresha Ravihari",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "sinhala"
   },
   {
     "id": "17",
-    "title": "Shivers",
-    "artist": "Ed Sheeran",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Drivers License",
+    "artist": "Olivia Rodrigo",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "english"
   },
   {
     "id": "18",
-    "title": "Need to Know",
-    "artist": "Doja Cat",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Pem Rasa Wahena",
+    "artist": "Victor Rathnayake",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "sinhala"
   },
   {
     "id": "19",
-    "title": "Easy On Me",
-    "artist": "Adele",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "english"
   },
   {
     "id": "20",
-    "title": "Cold Heart",
-    "artist": "Elton John, Dua Lipa",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
-  },
-  {
-    "id": "21",
-    "title": "THATS WHAT I WANT",
-    "artist": "Lil Nas X",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
-  },
-  {
-    "id": "22",
-    "title": "traitor",
-    "artist": "Olivia Rodrigo",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
-  },
-  {
-    "id": "23",
-    "title": "Better Days",
-    "artist": "NEIKED, Mae Muller",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
-  },
-  {
-    "id": "24",
-    "title": "My Universe",
-    "artist": "Coldplay, BTS",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
-  },
-  {
-    "id": "25",
-    "title": "INDUSTRY BABY",
-    "artist": "Lil Nas X",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
-  },
-  {
-    "id": "26",
-    "title": "Take My Breath",
-    "artist": "The Weeknd",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
-  },
-  {
-    "id": "27",
-    "title": "Woman",
-    "artist": "Doja Cat",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
-  },
-  {
-    "id": "28",
-    "title": "Beggin'",
-    "artist": "Måneskin",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
-  },
-  {
-    "id": "29",
-    "title": "STAY (with Justin Bieber)",
-    "artist": "The Kid LAROI",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
-  },
-  {
-    "id": "30",
-    "title": "Heat Waves",
-    "artist": "Glass Animals",
-    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg"
+    "title": "Oba Ma Hamuwuna",
+    "artist": "Clarence Wijewardena",
+    "imageUrl": "https://audioaesthetics.home.blog/wp-content/uploads/2019/11/a3d9f3cfc2e476c6e7564a8ab486326a.jpg",
+    "language": "sinhala"
   }
 ]
